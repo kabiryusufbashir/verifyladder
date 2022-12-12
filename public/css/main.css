@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Poppins";
+    src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+
+body{
+    font-family: "Poppins";
+    background-color: #f7f6ff;
+}
+
+.bg-color-gray-piccolo{
+    background-color: #f7f6ff;
+}
+
+.bg-color-piccolo{
+    background-color: #1100d9;
+}
+
+.text-piccolo{
+    color: #1100D9;
+}
